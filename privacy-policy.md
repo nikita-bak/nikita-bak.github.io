@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # TrackMate Privacy Policy
 
 _Last updated: 01 July 2025_

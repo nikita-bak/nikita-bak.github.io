@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Use
+permalink: /terms/
+---
+
 # TrackMate Terms of Use
 
 _Last updated: 01 July 2025_
