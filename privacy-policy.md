@@ -1,14 +1,8 @@
----
-layout: page
-title: Privacy Policy
-permalink: /privacy/
----
-
 # TrackMate Privacy Policy
 
 _Last updated: 01 July 2025_
 
-Thank you for choosing TrackMate ("we", "us", "our"). We care about your privacy and want you to be familiar with how we collect, use, and share information about you.
+Thank you for choosing TrackMate (the "App"). The App is developed and maintained by **Nikita Baklanov**, an independent developer based in Germany ("I", "me"). I care about your privacy and want you to be familiar with how I collect, use and share information about you.
 
 ## 1. Information we collect
 
@@ -51,6 +45,10 @@ We keep your data until you delete the account or as required for legitimate bus
 
 TrackMate is not intended for children under 16. We do not knowingly collect data from children.
 
-## 7. Contact us
+## 7. Contact
 
-If you have questions, email support@trackmate.app.
+If you have any questions or requests regarding this Privacy Policy, please contact:
+
+**Nikita Baklanov**  
+E-mail: privacy@trackmate.app  
+Germany

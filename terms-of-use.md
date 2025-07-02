@@ -1,14 +1,8 @@
----
-layout: page
-title: Terms of Use
-permalink: /terms/
----
-
 # TrackMate Terms of Use
 
 _Last updated: 01 July 2025_
 
-Welcome to TrackMate! These Terms of Use ("Terms") govern your access to and use of the TrackMate mobile application and any related services (collectively, the "Service"). By creating an account or using the Service you agree to be bound by these Terms.
+Welcome to TrackMate! These Terms of Use ("Terms") govern your access to and use of the TrackMate mobile application and any related services (collectively, the "Service"). The Service is provided by **Nikita Baklanov**, an individual developer based in Germany ("I", "me"). By creating an account or using the Service you agree to be bound by these Terms.
 
 ## 1. Eligibility
 
@@ -56,8 +50,12 @@ We may update these Terms for legal, regulatory, or operational reasons. Continu
 
 ## 11. Governing law
 
-These Terms are governed by the laws of the jurisdiction where TrackMate is registered.
+These Terms are governed by the laws of the Federal Republic of Germany. If you are a consumer and your habitual residence is in another EU member state, you also enjoy the protection afforded to you by mandatory provisions of the law of that member state.
 
 ## 12. Contact
 
-Questions? Email support@trackmate.app.
+If you have any questions about these Terms, please contact:
+
+**Nikita Baklanov**  
+E-mail: legal@trackmate.app  
+Germany
